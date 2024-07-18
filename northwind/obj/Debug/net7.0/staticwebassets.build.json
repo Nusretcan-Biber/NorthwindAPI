@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2GQAsnpIJ7nZj2vX496doajZ6Eqrtqfqqk1tq66WSg0=",
+  "Source": "northwind",
+  "BasePath": "_content/northwind",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

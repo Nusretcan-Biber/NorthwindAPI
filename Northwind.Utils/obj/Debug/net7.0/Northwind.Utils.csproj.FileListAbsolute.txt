@@ -1,0 +1,17 @@
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\bin\Debug\net7.0\Northwind.Utils.deps.json
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\bin\Debug\net7.0\Northwind.Utils.dll
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\bin\Debug\net7.0\Northwind.Utils.pdb
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\bin\Debug\net7.0\Northwind.Data.dll
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\bin\Debug\net7.0\Northwind.DataAccess.dll
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\bin\Debug\net7.0\Northwind.DataAccess.pdb
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\bin\Debug\net7.0\Northwind.Data.pdb
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\obj\Debug\net7.0\Northwind.Utils.csproj.AssemblyReference.cache
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\obj\Debug\net7.0\Northwind.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\obj\Debug\net7.0\Northwind.Utils.AssemblyInfoInputs.cache
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\obj\Debug\net7.0\Northwind.Utils.AssemblyInfo.cs
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\obj\Debug\net7.0\Northwind.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\obj\Debug\net7.0\Northwin.AE26F8DE.Up2Date
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\obj\Debug\net7.0\Northwind.Utils.dll
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\obj\Debug\net7.0\refint\Northwind.Utils.dll
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\obj\Debug\net7.0\Northwind.Utils.pdb
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\obj\Debug\net7.0\ref\Northwind.Utils.dll
