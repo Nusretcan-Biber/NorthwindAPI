@@ -15,3 +15,4 @@ C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\obj\Debug\net7.0\Northwi
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\obj\Debug\net7.0\refint\Northwind.Utils.dll
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\obj\Debug\net7.0\Northwind.Utils.pdb
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\obj\Debug\net7.0\ref\Northwind.Utils.dll
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Utils\obj\Debug\net7.0\Northwind.Utils.sourcelink.json

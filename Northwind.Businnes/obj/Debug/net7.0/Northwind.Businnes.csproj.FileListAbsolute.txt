@@ -17,3 +17,4 @@ C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\obj\Debug\net7.0\Nort
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\obj\Debug\net7.0\refint\Northwind.Businnes.dll
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\obj\Debug\net7.0\Northwind.Businnes.pdb
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\obj\Debug\net7.0\ref\Northwind.Businnes.dll
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\obj\Debug\net7.0\Northwind.Businnes.sourcelink.json

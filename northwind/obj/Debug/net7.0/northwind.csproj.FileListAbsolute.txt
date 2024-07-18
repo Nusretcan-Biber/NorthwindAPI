@@ -50,3 +50,4 @@ C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\Microsoft.Ent
 C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Nusret\source\Sampas\northwind\northwind\obj\Debug\net7.0\northwind.sourcelink.json
