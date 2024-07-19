@@ -2,11 +2,9 @@ C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\bin\Debug\net7.0\Nort
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\bin\Debug\net7.0\Northwind.Businnes.dll
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\bin\Debug\net7.0\Northwind.Businnes.pdb
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\bin\Debug\net7.0\Northwind.Data.dll
-C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\bin\Debug\net7.0\Northwind.DataAccess.dll
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\bin\Debug\net7.0\Northwind.Utils.dll
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\bin\Debug\net7.0\Northwind.Data.pdb
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\bin\Debug\net7.0\Northwind.Utils.pdb
-C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\bin\Debug\net7.0\Northwind.DataAccess.pdb
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\obj\Debug\net7.0\Northwind.Businnes.csproj.AssemblyReference.cache
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\obj\Debug\net7.0\Northwind.Businnes.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Businnes\obj\Debug\net7.0\Northwind.Businnes.AssemblyInfoInputs.cache

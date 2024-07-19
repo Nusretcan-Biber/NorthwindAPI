@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oMkXSiv1b7UPtiXBEmKc8UDof+pH2pCBzH6QWTg7ffW25kVyDkqBvYImtsXz+U5U7cnlpMLy+iebAf2a/S9iLA==",
+  "dgSpecHash": "IQpwfy8j6Hoiwm9PS3dhBwV/mV/jX4tmzuLCKBpvW1m2SVlu0vl1ZjRZHBlRp8NgWUGToj/cGeP6x+lULDKS/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\Northwind.Businnes.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Nusret\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Nusret\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\Nusret\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Nusret\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0\\microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512",

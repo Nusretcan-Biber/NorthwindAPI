@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Northwind.Businnes.IModelServices;
+using Northwind.Data.DTOs;
 using Northwind.Data.Models;
+using Northwind.Utils.AutoMapper;
 using Northwind.Utils.UnitOfWorks;
 using System;
 using System.Collections.Generic;
@@ -13,11 +15,12 @@ namespace Northwind.Businnes.ModelServices
     public class OrderService : IOrderService
     {
 
-        public int CreateOrder(Order orderModel)
+        public int CreateOrder(OrderDto orderModel)
         {
             using (var uow = new UnitOfWork<PostgresContext>())
             {
-                uow.GetRepository<Order>().Add(orderModel);
+                var createOrder = MappingProfile<OrderDto, Order>.Instance.Mapper.Map<Order>(orderModel);
+                uow.GetRepository<Order>().Add(createOrder);
                 var result = uow.SaveChanges();
                 return result;
             }
@@ -61,7 +64,7 @@ namespace Northwind.Businnes.ModelServices
             }
         }
 
-        public int UpdateOrder(Order orderModel)
+        public int UpdateOrder(OrderDto orderModel)
         {
             using (var uow = new UnitOfWork<PostgresContext>())
             {
@@ -69,7 +72,8 @@ namespace Northwind.Businnes.ModelServices
                 if (isExistItem == null)
                     return 0; // Kullanıcı bulunamadı
                 //Burada Girilen Null değerleri Veritabanındaki veriler ile eşlenecek kod gelebilir
-                uow.GetRepository<Order>().Update(orderModel);
+                var updateOrder = MappingProfile<OrderDto, Order>.Instance.Mapper.Map<Order>(orderModel);
+                uow.GetRepository<Order>().Update(updateOrder);
                 if (uow.SaveChanges() < 0)
                     return -1; // Kullanıcı güncellenemedi
                 return 1; // Güncelleme işlemi Başarılı

@@ -1,16 +1,12 @@
-﻿using Northwind.Data.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Northwind.Data.DTOs;
+using Northwind.Data.Models;
 
 namespace Northwind.Businnes.IModelServices
 {
     public interface ICategoryService
     {
-        public int CreateCategory(Category categoryModel);
-        public int UpdateCategory(Category categoryModel);
+        public int CreateCategory(CategoryDto categoryModel);
+        public int UpdateCategory(CategoryDto categoryModel);
         public int DeleteCategory(short categoryId);
         public List<Category> GetAllCategory();
         public Category GetCategoryById(short categoryId);

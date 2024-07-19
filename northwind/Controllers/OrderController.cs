@@ -1,16 +1,17 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Northwind.Businnes.IModelServices;
 using Northwind.Businnes.ModelServices;
+using Northwind.Data.DTOs;
 using Northwind.Data.Models;
 
 namespace northwind.Controllers
 {
-    public class OrderController : Controller
+    public class OrderController : ControllerBase
     {
         IOrderService orderService = new OrderService();
 
         [HttpPost(nameof(OrderInsert))]
-        public IActionResult OrderInsert(Order model)
+        public IActionResult OrderInsert(OrderDto model)
         {
             var result = orderService.CreateOrder(model);
             if (result <= 0)
@@ -50,7 +51,7 @@ namespace northwind.Controllers
         }
 
         [HttpPut(nameof(UpdateOrder))]
-        public IActionResult UpdateOrder([FromQuery] Order orderModel)
+        public IActionResult UpdateOrder([FromBody] OrderDto orderModel)
         {
             var result = orderService.UpdateOrder(orderModel);
             if (result > 0)

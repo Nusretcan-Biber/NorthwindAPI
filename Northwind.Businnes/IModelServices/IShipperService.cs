@@ -1,4 +1,5 @@
 ﻿
+using Northwind.Data.DTOs;
 using Northwind.Data.Models;
 using System;
 using System.Collections.Generic;
@@ -10,8 +11,8 @@ namespace Northwind.Businnes.IModelServices
 {
     public interface IShipperService
     {
-        public int CreateShipper(Shipper shipperModel);
-        public int UpdateShipper(Shipper shipperModel);
+        public int CreateShipper(ShipperDto shipperModel);
+        public int UpdateShipper(ShipperDto shipperModel);
         public int DeleteShipper(short shipperId);
         public List<Shipper> GetAllShippers();
         public Shipper GetShipperById(short shipperId);

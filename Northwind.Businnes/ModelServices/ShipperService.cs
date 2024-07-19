@@ -10,16 +10,19 @@ using Northwind.Data.Models;
 using Microsoft.EntityFrameworkCore;
 using Northwind.Utils.Repositories;
 using System.ComponentModel.DataAnnotations;
+using Northwind.Data.DTOs;
+using Northwind.Utils.AutoMapper;
 
 namespace Northwind.Businnes.ModelServices
 {
     public class ShipperService : IShipperService
     {
-        public int CreateShipper(Shipper shipperModel)
+        public int CreateShipper(ShipperDto shipperModel)
         {
             using (var uow = new UnitOfWork<PostgresContext>())
             {
-                uow.GetRepository<Shipper>().Add(shipperModel);
+                var createShipper = MappingProfile<ShipperDto, Shipper>.Instance.Mapper.Map<Shipper>(shipperModel);
+                uow.GetRepository<Shipper>().Add(createShipper);
                 var result = uow.SaveChanges();
                 return result;
             }
@@ -67,7 +70,7 @@ namespace Northwind.Businnes.ModelServices
             }
         }
 
-        public int UpdateShipper(Shipper shipperModel)
+        public int UpdateShipper(ShipperDto shipperModel)
         {
             using (var uow = new UnitOfWork<PostgresContext>())
             {
@@ -75,7 +78,10 @@ namespace Northwind.Businnes.ModelServices
                 if (isExist == null)
                     return 0; // Kullanıcı bulunamadı
                 //Burada Girilen Null değerleri Veritabanındaki veriler ile eşlenecek kod gelebilir
-                uow.GetRepository<Shipper>().Update(shipperModel);
+               
+                var updateShipper = MappingProfile<ShipperDto,Shipper>.Instance.Mapper.Map<Shipper>(shipperModel);
+                
+                uow.GetRepository<Shipper>().Update(updateShipper);
                 if (uow.SaveChanges() < 0)
                     return -1; // Kullanıcı güncellenemedi
                 return 1; // Güncelleme işlemi Başarılı

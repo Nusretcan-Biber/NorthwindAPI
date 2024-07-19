@@ -1,22 +1,20 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Northwind.Businnes.IModelServices;
+using Northwind.Data.DTOs;
 using Northwind.Data.Models;
+using Northwind.Utils.AutoMapper;
 using Northwind.Utils.UnitOfWorks;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Northwind.Businnes.ModelServices
 {
     public class CategoryService : ICategoryService
     {
-        public int CreateCategory(Category categoryModel)
+        public int CreateCategory(CategoryDto categoryModel)
         {
             using (var uow = new UnitOfWork<PostgresContext>())
             {
-                uow.GetRepository<Category>().Add(categoryModel);
+                var createCategory = MappingProfile<CategoryDto, Category>.Instance.Mapper.Map<Category>(categoryModel);
+                uow.GetRepository<Category>().Add(createCategory);
                 return uow.SaveChanges();
             }
         }
@@ -58,7 +56,7 @@ namespace Northwind.Businnes.ModelServices
             }
         }
 
-        public int UpdateCategory(Category categoryModel)
+        public int UpdateCategory(CategoryDto categoryModel)
         {
             using (var uow = new UnitOfWork<PostgresContext>())
             {
@@ -66,7 +64,8 @@ namespace Northwind.Businnes.ModelServices
                 if (isExistItem == null)
                     return 0; // Kullanıcı bulunamadı
                 //Burada Girilen Null değerleri Veritabanındaki veriler ile eşlenecek kod gelebilir
-                uow.GetRepository<Category>().Update(categoryModel);
+                var updateCartegory = MappingProfile<CategoryDto, Category>.Instance.Mapper.Map<Category>(categoryModel);
+                uow.GetRepository<Category>().Update(updateCartegory);
                 if (uow.SaveChanges() < 0)
                     return -1; // Kullanıcı güncellenemedi
                 return 1; // Güncelleme işlemi Başarılı

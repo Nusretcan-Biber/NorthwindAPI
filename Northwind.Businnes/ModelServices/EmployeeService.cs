@@ -1,22 +1,20 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Northwind.Businnes.IModelServices;
+using Northwind.Data.DTOs;
 using Northwind.Data.Models;
+using Northwind.Utils.AutoMapper;
 using Northwind.Utils.UnitOfWorks;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Northwind.Businnes.ModelServices
 {
     public class EmployeeService : IEmployeeService
     {
-        public int CreateEmployee(Employee employeeModel)
+        public int CreateEmployee(EmployeeDto employeeModel)
         {
             using (var uow = new UnitOfWork<PostgresContext>())
             {
-                uow.GetRepository<Employee>().Add(employeeModel);
+                var createEmployee = MappingProfile<EmployeeDto, Employee>.Instance.Mapper.Map<Employee>(employeeModel);
+                uow.GetRepository<Employee>().Add(createEmployee);
                 var result = uow.SaveChanges();
                 return result;
             }
@@ -60,7 +58,7 @@ namespace Northwind.Businnes.ModelServices
             }
         }
 
-        public int UpdateEmployee(Employee employeeModel)
+        public int UpdateEmployee(EmployeeDto employeeModel)
         {
             using (var uow = new UnitOfWork<PostgresContext>())
             {
@@ -68,7 +66,8 @@ namespace Northwind.Businnes.ModelServices
                 if (isExistItem == null)
                     return 0; // Kullanıcı bulunamadı
                 //Burada Girilen Null değerleri Veritabanındaki veriler ile eşlenecek kod gelebilir
-                uow.GetRepository<Employee>().Update(employeeModel);
+                var updateEmployee = MappingProfile<EmployeeDto, Employee>.Instance.Mapper.Map<Employee>(employeeModel);
+                uow.GetRepository<Employee>().Update(updateEmployee);
                 if (uow.SaveChanges() < 0)
                     return -1; // Kullanıcı güncellenemedi
                 return 1; // Güncelleme işlemi Başarılı

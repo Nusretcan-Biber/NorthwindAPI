@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "AutoMapper/13.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -313,28 +329,13 @@
           "bin/placeholder/Northwind.Data.dll": {}
         }
       },
-      "Northwind.DataAccess/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "7.0.0",
-          "Northwind.Data": "1.0.0",
-          "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Northwind.DataAccess.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Northwind.DataAccess.dll": {}
-        }
-      },
       "Northwind.Utils/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "AutoMapper": "13.0.1",
           "Newtonsoft.Json": "13.0.3",
-          "Northwind.Data": "1.0.0",
-          "Northwind.DataAccess": "1.0.0"
+          "Northwind.Data": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Northwind.Utils.dll": {}
@@ -346,6 +347,21 @@
     }
   },
   "libraries": {
+    "AutoMapper/13.0.1": {
+      "sha512": "/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
+      "type": "package",
+      "path": "automapper/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.13.0.1.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/net6.0/AutoMapper.dll",
+        "lib/net6.0/AutoMapper.xml"
+      ]
+    },
     "Microsoft.EntityFrameworkCore/7.0.0": {
       "sha512": "9W+IfmAzMrp2ZpKZLhgTlWljSBM9Erldis1us61DAGi+L7Q6vilTbe1G2zDxtYO8F2H0I0Qnupdx5Cp4s2xoZw==",
       "type": "package",
@@ -798,11 +814,6 @@
       "type": "project",
       "path": "../Northwind.Data/Northwind.Data.csproj",
       "msbuildProject": "../Northwind.Data/Northwind.Data.csproj"
-    },
-    "Northwind.DataAccess/1.0.0": {
-      "type": "project",
-      "path": "../Northwind.DataAccess/Northwind.DataAccess.csproj",
-      "msbuildProject": "../Northwind.DataAccess/Northwind.DataAccess.csproj"
     },
     "Northwind.Utils/1.0.0": {
       "type": "project",

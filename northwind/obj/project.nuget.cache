@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bKr3kRXWx6SXuPLMkZMRSUVdaADHMJAQbL1nJeTptkOhEya5wUonF4vkZuXvgWjUYMVykgy9EhQeYPx5Xnjzkw==",
+  "dgSpecHash": "ScgopiXfsc4IYuc66rnkfk32CQ9XY/K5lldkkNFKb+E9vj6F2nMTALMNFBNU9HxG569LNjvk0Zqxr8GgMzvS5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind\\northwind.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Nusret\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Nusret\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Nusret\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.17\\microsoft.aspnetcore.openapi.7.0.17.nupkg.sha512",
     "C:\\Users\\Nusret\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
