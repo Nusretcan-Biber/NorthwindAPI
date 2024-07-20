@@ -3,63 +3,83 @@
   "WorkspaceRootPath": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.data\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|solutionrelative:northwind.data\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B6A9296-C3B8-48D5-B1CF-7FD4B608DF01}|northwind\\northwind.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B6A9296-C3B8-48D5-B1CF-7FD4B608DF01}|northwind\\northwind.csproj|solutionrelative:northwind\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B6A9296-C3B8-48D5-B1CF-7FD4B608DF01}|northwind\\northwind.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.data\\models\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|solutionrelative:northwind.data\\models\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|solutionrelative:northwind.data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|solutionrelative:northwind.data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.data\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|solutionrelative:northwind.data\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|solutionrelative:northwind.data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6A9296-C3B8-48D5-B1CF-7FD4B608DF01}|northwind\\northwind.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B6A9296-C3B8-48D5-B1CF-7FD4B608DF01}|northwind\\northwind.csproj|solutionrelative:northwind\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B6A9296-C3B8-48D5-B1CF-7FD4B608DF01}|northwind\\northwind.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B6A9296-C3B8-48D5-B1CF-7FD4B608DF01}|northwind\\northwind.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B6A9296-C3B8-48D5-B1CF-7FD4B608DF01}|northwind\\northwind.csproj|solutionrelative:northwind\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B6A9296-C3B8-48D5-B1CF-7FD4B608DF01}|northwind\\northwind.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B6A9296-C3B8-48D5-B1CF-7FD4B608DF01}|northwind\\northwind.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B6A9296-C3B8-48D5-B1CF-7FD4B608DF01}|northwind\\northwind.csproj|solutionrelative:northwind\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.businnes\\imodelservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.businnes\\imodelservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|solutionrelative:northwind.businnes\\imodelservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.businnes\\imodelservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.businnes\\imodelservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|solutionrelative:northwind.businnes\\imodelservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.businnes\\imodelservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.businnes\\imodelservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|solutionrelative:northwind.businnes\\imodelservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.businnes\\imodelservices\\ishipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.businnes\\imodelservices\\ishipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|solutionrelative:northwind.businnes\\imodelservices\\ishipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.businnes\\modelservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.businnes\\modelservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|solutionrelative:northwind.businnes\\modelservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.data\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.data\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|solutionrelative:northwind.data\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.data\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.data\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|solutionrelative:northwind.data\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30E9C5D9-D428-4543-84F9-847D904F6D78}|Northwind.Utils\\Northwind.Utils.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.utils\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30E9C5D9-D428-4543-84F9-847D904F6D78}|Northwind.Utils\\Northwind.Utils.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.utils\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30E9C5D9-D428-4543-84F9-847D904F6D78}|Northwind.Utils\\Northwind.Utils.csproj|solutionrelative:northwind.utils\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.data\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|solutionrelative:northwind.data\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.data\\dtos\\shipperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.data\\dtos\\shipperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|solutionrelative:northwind.data\\dtos\\shipperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30E9C5D9-D428-4543-84F9-847D904F6D78}|Northwind.Utils\\Northwind.Utils.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.utils\\northwind.utils.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{30E9C5D9-D428-4543-84F9-847D904F6D78}|Northwind.Utils\\Northwind.Utils.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.utils\\northwind.utils.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{30E9C5D9-D428-4543-84F9-847D904F6D78}|Northwind.Utils\\Northwind.Utils.csproj|solutionrelative:northwind.utils\\northwind.utils.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -71,24 +91,8 @@
       "RelativeMoniker": "D:0:0:{C8CEA80F-2785-4537-AC43-7B398F748B11}|Northwind.Businnes\\Northwind.Businnes.csproj|solutionrelative:northwind.businnes\\modelservices\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30E9C5D9-D428-4543-84F9-847D904F6D78}|Northwind.Utils\\Northwind.Utils.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.utils\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30E9C5D9-D428-4543-84F9-847D904F6D78}|Northwind.Utils\\Northwind.Utils.csproj|C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind.utils\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30E9C5D9-D428-4543-84F9-847D904F6D78}|Northwind.Utils\\Northwind.Utils.csproj|solutionrelative:northwind.utils\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|solutionrelative:northwind.data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|solutionrelative:northwind.data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|solutionrelative:northwind.data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|c:\\users\\nusret\\source\\sampas\\northwind\\northwind.data\\models\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4EF097-3284-4B38-A96A-AB1350B6A052}|Northwind.Data\\Northwind.Data.csproj|solutionrelative:northwind.data\\models\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 207,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,59 +122,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Northwind.Businnes\\IModelServices\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\IOrderService.cs",
-              "RelativeToolTip": "Northwind.Businnes\\IModelServices\\IOrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "DocumentIndex": 1,
+              "Title": "ShipperController.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind\\Controllers\\ShipperController.cs",
+              "RelativeDocumentMoniker": "northwind\\Controllers\\ShipperController.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind\\Controllers\\ShipperController.cs",
+              "RelativeToolTip": "northwind\\Controllers\\ShipperController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T08:12:53.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "Northwind.Businnes\\IModelServices\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\IEmployeeService.cs",
-              "RelativeToolTip": "Northwind.Businnes\\IModelServices\\IEmployeeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T08:32:09.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Northwind.Businnes\\IModelServices\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\ICategoryService.cs",
-              "RelativeToolTip": "Northwind.Businnes\\IModelServices\\ICategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T08:40:13.703Z",
+              "WhenOpened": "2024-07-19T06:05:04.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "northwind\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "northwind\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Title": "Shipper.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\Models\\Shipper.cs",
+              "RelativeDocumentMoniker": "Northwind.Data\\Models\\Shipper.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\Models\\Shipper.cs",
+              "RelativeToolTip": "Northwind.Data\\Models\\Shipper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T06:05:46.418Z",
+              "WhenOpened": "2024-07-19T07:45:27.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "northwind\\Controllers\\EmployeeController.cs",
@@ -183,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "northwind\\Controllers\\OrderController.cs",
@@ -196,176 +174,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShipperController.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind\\Controllers\\ShipperController.cs",
-              "RelativeDocumentMoniker": "northwind\\Controllers\\ShipperController.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind\\Controllers\\ShipperController.cs",
-              "RelativeToolTip": "northwind\\Controllers\\ShipperController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T06:05:04.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IShipperService.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\IShipperService.cs",
-              "RelativeDocumentMoniker": "Northwind.Businnes\\IModelServices\\IShipperService.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\IShipperService.cs",
-              "RelativeToolTip": "Northwind.Businnes\\IModelServices\\IShipperService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T07:28:26.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\ModelServices\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Northwind.Businnes\\ModelServices\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\ModelServices\\CategoryService.cs",
-              "RelativeToolTip": "Northwind.Businnes\\ModelServices\\CategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T08:39:33.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EmployeeDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\EmployeeDto.cs",
-              "RelativeDocumentMoniker": "Northwind.Data\\DTOs\\EmployeeDto.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\EmployeeDto.cs",
-              "RelativeToolTip": "Northwind.Data\\DTOs\\EmployeeDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T07:46:54.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "Northwind.Data\\DTOs\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\CategoryDto.cs",
-              "RelativeToolTip": "Northwind.Data\\DTOs\\CategoryDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T07:49:20.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Utils\\AutoMapper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Northwind.Utils\\AutoMapper\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Utils\\AutoMapper\\MappingProfile.cs",
-              "RelativeToolTip": "Northwind.Utils\\AutoMapper\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T07:36:19.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\OrderDto.cs",
-              "RelativeDocumentMoniker": "Northwind.Data\\DTOs\\OrderDto.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\OrderDto.cs",
-              "RelativeToolTip": "Northwind.Data\\DTOs\\OrderDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T07:46:02.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ShipperDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\ShipperDto.cs",
-              "RelativeDocumentMoniker": "Northwind.Data\\DTOs\\ShipperDto.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\ShipperDto.cs",
-              "RelativeToolTip": "Northwind.Data\\DTOs\\ShipperDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T07:44:52.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Northwind.Utils",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Utils\\Northwind.Utils.csproj",
-              "RelativeDocumentMoniker": "Northwind.Utils\\Northwind.Utils.csproj",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Utils\\Northwind.Utils.csproj",
-              "RelativeToolTip": "Northwind.Utils\\Northwind.Utils.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-19T08:49:26.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\ModelServices\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "Northwind.Businnes\\ModelServices\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\ModelServices\\EmployeeService.cs",
-              "RelativeToolTip": "Northwind.Businnes\\ModelServices\\EmployeeService.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAuwEUAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T13:55:21.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\ModelServices\\OrderService.cs",
-              "RelativeDocumentMoniker": "Northwind.Businnes\\ModelServices\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\ModelServices\\OrderService.cs",
-              "RelativeToolTip": "Northwind.Businnes\\ModelServices\\OrderService.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAswFAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T13:50:45.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Utils\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "Northwind.Utils\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Utils\\Repositories\\Repository.cs",
-              "RelativeToolTip": "Northwind.Utils\\Repositories\\Repository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T08:22:01.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 4,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Northwind.Data\\Models\\Employee.cs",
               "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\Models\\Employee.cs",
               "RelativeToolTip": "Northwind.Data\\Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwA8AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T07:47:05.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Northwind.Data\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\Models\\Order.cs",
+              "RelativeToolTip": "Northwind.Data\\Models\\Order.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:46:15.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "northwind\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\northwind\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "northwind\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:05:46.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Northwind.Data\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "Northwind.Data\\DTOs\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:46:02.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Northwind.Data\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\Models\\Customer.cs",
+              "RelativeToolTip": "Northwind.Data\\Models\\Customer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:06:26.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Northwind.Businnes\\IModelServices\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\ICategoryService.cs",
+              "RelativeToolTip": "Northwind.Businnes\\IModelServices\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:40:13.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Northwind.Data\\Models\\Category.cs",
@@ -378,28 +265,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Northwind.Data\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\Models\\Order.cs",
-              "RelativeToolTip": "Northwind.Data\\Models\\Order.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAzwB0AAAArAAAA",
+              "DocumentIndex": 12,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Northwind.Businnes\\IModelServices\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\IOrderService.cs",
+              "RelativeToolTip": "Northwind.Businnes\\IModelServices\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T07:46:15.64Z",
+              "WhenOpened": "2024-07-19T08:12:53.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Northwind.Businnes\\IModelServices\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\IEmployeeService.cs",
+              "RelativeToolTip": "Northwind.Businnes\\IModelServices\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:32:09.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IShipperService.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\IShipperService.cs",
+              "RelativeDocumentMoniker": "Northwind.Businnes\\IModelServices\\IShipperService.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\IModelServices\\IShipperService.cs",
+              "RelativeToolTip": "Northwind.Businnes\\IModelServices\\IShipperService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:28:26.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\ModelServices\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Northwind.Businnes\\ModelServices\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\ModelServices\\CategoryService.cs",
+              "RelativeToolTip": "Northwind.Businnes\\ModelServices\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:39:33.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Northwind.Data\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "Northwind.Data\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:46:54.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Northwind.Data\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "Northwind.Data\\DTOs\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:49:20.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Utils\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Northwind.Utils\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Utils\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "Northwind.Utils\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:36:19.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShipperDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\ShipperDto.cs",
+              "RelativeDocumentMoniker": "Northwind.Data\\DTOs\\ShipperDto.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\DTOs\\ShipperDto.cs",
+              "RelativeToolTip": "Northwind.Data\\DTOs\\ShipperDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:44:52.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Northwind.Utils.csproj",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Utils\\Northwind.Utils.csproj",
+              "RelativeDocumentMoniker": "Northwind.Utils\\Northwind.Utils.csproj",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Utils\\Northwind.Utils.csproj",
+              "RelativeToolTip": "Northwind.Utils\\Northwind.Utils.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-19T08:49:26.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\ModelServices\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Northwind.Businnes\\ModelServices\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\ModelServices\\EmployeeService.cs",
+              "RelativeToolTip": "Northwind.Businnes\\ModelServices\\EmployeeService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAuwEUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:55:21.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Shipper.cs",
-              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\Models\\Shipper.cs",
-              "RelativeDocumentMoniker": "Northwind.Data\\Models\\Shipper.cs",
-              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Data\\Models\\Shipper.cs",
-              "RelativeToolTip": "Northwind.Data\\Models\\Shipper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\ModelServices\\OrderService.cs",
+              "RelativeDocumentMoniker": "Northwind.Businnes\\ModelServices\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Businnes\\ModelServices\\OrderService.cs",
+              "RelativeToolTip": "Northwind.Businnes\\ModelServices\\OrderService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAswFAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T07:45:27.104Z",
+              "WhenOpened": "2024-07-18T13:50:45.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Utils\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Northwind.Utils\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Nusret\\source\\Sampas\\northwind\\Northwind.Utils\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Northwind.Utils\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:22:01.42Z",
               "EditorCaption": ""
             }
           ]
