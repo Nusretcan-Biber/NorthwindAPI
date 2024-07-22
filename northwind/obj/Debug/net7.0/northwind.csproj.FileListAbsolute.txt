@@ -50,3 +50,17 @@ C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\Mono.TextTemp
 C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\System.CodeDom.dll
 C:\Users\Nusret\source\Sampas\northwind\northwind\obj\Debug\net7.0\northwind.sourcelink.json
 C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\MailKit.dll
+C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\MimeKit.dll
+C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\System.Formats.Asn1.dll
+C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nusret\source\Sampas\northwind\northwind\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll

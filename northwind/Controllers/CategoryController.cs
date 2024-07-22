@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using northwind.Authorization;
+using northwind.Enums;
 using Northwind.Businnes.IModelServices;
 using Northwind.Businnes.ModelServices;
 using Northwind.Data.DTOs;
@@ -6,11 +8,13 @@ using Northwind.Data.Models;
 
 namespace northwind.Controllers
 {
+    [ApiController]
     public class CategoryController : ControllerBase
     {
         ICategoryService categoryService = new CategoryService();
 
         [HttpPost(nameof(CategoryInsert))]
+        [Authorization(UserType = UserTypeEnum.OWNER, MethodStatusType= MethodStatusTypeEnum.EQUAL)]
         public IActionResult CategoryInsert(CategoryDto model)
         {
             var result = categoryService.CreateCategory(model);
@@ -21,7 +25,9 @@ namespace northwind.Controllers
             return Ok(result);
         }
 
+
         [HttpDelete(nameof(CategoryDelete))]
+        [Authorization(UserType = UserTypeEnum.OWNER, MethodStatusType = MethodStatusTypeEnum.EQUAL)]
         public IActionResult CategoryDelete(short categoryId)
         {
             var result = categoryService.DeleteCategory(categoryId);
@@ -33,6 +39,7 @@ namespace northwind.Controllers
         }
 
         [HttpGet(nameof(GetCategoryByID))]
+        [Authorization(UserType = UserTypeEnum.GUEST, MethodStatusType = MethodStatusTypeEnum.EQUAL)]
         public IActionResult GetCategoryByID(short ID)
         {
             var result = categoryService.GetCategoryById(ID);
@@ -42,6 +49,7 @@ namespace northwind.Controllers
         }
 
         [HttpGet(nameof(GetAllCategory))]
+        [Authorization(UserType = UserTypeEnum.ADMIN, MethodStatusType = MethodStatusTypeEnum.GREATER_EQUAL)]
         public IActionResult GetAllCategory()
         {
             var result = categoryService.GetAllCategory();
@@ -51,6 +59,7 @@ namespace northwind.Controllers
         }
 
         [HttpPut(nameof(UpdateCategory))]
+        [Authorization(UserType = UserTypeEnum.OWNER, MethodStatusType = MethodStatusTypeEnum.EQUAL)]
         public IActionResult UpdateCategory([FromBody] CategoryDto categoryModel)
         {
             var result = categoryService.UpdateCategory(categoryModel);
