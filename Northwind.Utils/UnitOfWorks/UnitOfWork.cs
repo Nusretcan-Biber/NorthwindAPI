@@ -12,8 +12,9 @@ namespace Northwind.Utils.UnitOfWorks
         private DbContext _dbContext;
 
         /// <summary>
-        /// hata oluşursa bu listeye doldurulacak
+        /// İşlemlerde hata oluşusa bu liste doldurulur.
         /// </summary>
+
         public readonly List<String> ErrorMessageList = new List<String>();
 
 
@@ -54,19 +55,20 @@ namespace Northwind.Utils.UnitOfWorks
 
         #region IUnitOfWork Members
 
+
         /// <summary>
-        /// Repository instance'ı başlatmak için kullanılır
+        /// Repository instance'ı başlatmak için kullanılır.
         /// </summary>
-        /// <typeparam name="T"></typeparam>
-        /// <returns></returns>
-        /// <exception cref="NotImplementedException"></exception>
+        /// <typeparam name="T">Veri Tabanı Tür Nesnesi</typeparam>
+        /// <returns>Tür nesnesi ile ilgili Repository</returns>
         public IRepository<T> GetRepository<T>() where T : class
         {
             return new Repository<T>(DbContext);
         }
 
+
         /// <summary>
-        /// Değişiklikleri kaydeder ve çıkan hata mesajlarını ErrorMesage'ye kaydeder
+        /// Değişiklikleri kaydet.
         /// </summary>
         /// <returns></returns>
         public int SaveChanges()

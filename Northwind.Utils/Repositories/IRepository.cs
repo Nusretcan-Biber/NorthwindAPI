@@ -12,67 +12,69 @@ namespace Northwind.Utils.Repositories
     {
 
         /// <summary>
-        /// Tüm veriyi getir
+        /// Tüm veriyi getir.
         /// </summary>
         /// <returns></returns>
         IQueryable<TModel> GetAll();
 
         /// <summary>
-        /// Veriyi where sorgusuna göre getirir
+        /// Veriyi Where metodu ile getir.
         /// </summary>
         /// <param name="predicate"></param>
         /// <returns></returns>
         IQueryable<TModel> GetAll(Expression<Func<TModel, bool>> predicate);
 
+
         /// <summary>
-        /// Veriyi single olarak getirir
+        /// İstenilen veriyi single olarak getirir.
         /// </summary>
         /// <param name="predicate"></param>
         /// <returns></returns>
         TModel Get(Expression<Func<TModel, bool>> predicate);
 
         /// <summary>
-        /// Veritabanına veri ekler
+        /// Verilen entityi ekle.
         /// </summary>
-        /// <param name="model"></param>
+        /// <param name="entity"></param>
         void Add(TModel model);
 
         /// <summary>
-        /// Veritabanına veriyi listeleyerek ekler istenilen add işlemlerini listeleyerek galiba sormam lazım
+        /// Verilen entityi ekle.
         /// </summary>
-        /// <param name="model"></param>
+        /// <param name="entity"></param>
         void AddRange(List<TModel> model);
 
         /// <summary>
-        /// Veriyi günceller
+        /// Verilen entity i güncelle.
         /// </summary>
-        /// <param name="model"></param>
+        /// <param name="entity"></param>
         void Update(TModel model);
 
         /// <summary>
-        /// Verilen modeli siler
+        /// Verilen entityi sil.
         /// </summary>
-        /// <param name="model"></param>
-        /// <param name="forceDelete"></param>
+        /// <param name="entity"></param>
         void Delete(TModel model, bool forceDelete = false);
 
+
         /// <summary>
-        /// Predicate göre veriyi siler
+        /// predicate göre veriler silinir.
         /// </summary>
-        /// <param name="model"></param>
+        /// <param name="predicate"></param>
         void Delete(Expression<Func<TModel,bool>> predicate, bool forceDelete = false);
 
         /// <summary>
-        /// Verinin mevcut olup olmama durumunu kontrol eder true yada false döner
+        /// Aynı kayıt eklememek için objeyi kontrol ederek true veya false dönderir.
         /// </summary>
+        /// <typeparam name="T"></typeparam>
         /// <param name="predicate"></param>
         /// <returns></returns>
         bool Any(Expression<Func<TModel, bool>> predicate);
 
         /// <summary>
-        /// DbContext'i getirir
-        /// </summary>
-        /// <returns></returns>
+        /// DbContext i verir.
+        /// </summary> 
+        /// <returns
         DbContext GetDbContext();
 
         TModel GetByIdiki(short id);

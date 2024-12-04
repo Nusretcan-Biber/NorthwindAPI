@@ -17,7 +17,9 @@
       "applicationUrl": "http://localhost:5172",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "POSTGRESQL_URI": "User ID=postgres;Password=root;Host=172.23.23.18;Port=5432;Database=northwind;Pooling=true;Connection Lifetime=0;"
+        "TOKEN_ISSUER": "nusret",
+        "TOKEN_SECURITY_KEY": "6e6f727468766964205665726920546162616ec4b1206a7774656b6c656d652061c59f616d616c6172c4b120626972617a2073c4b16bc4b16ec4b1206765c3a3796f722e",
+        "POSTGRESQL_URI": "User ID=postgres;Password=root;Host=localhost;Port=5432;Database=postgres;Pooling=true;Connection Lifetime=0;"
       }
     },
     "https": {

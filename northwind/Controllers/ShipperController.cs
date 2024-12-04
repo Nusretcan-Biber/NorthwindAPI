@@ -1,17 +1,18 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Northwind.Businnes.IModelServices;
 using Northwind.Businnes.ModelServices;
+using Northwind.Data.DTOs;
 using Northwind.Data.Models;
 
 
 namespace northwind.Controllers
 {
-    public class ShipperController : Controller
+    public class ShipperController : ControllerBase
     {
         IShipperService shipperService = new ShipperService();
 
         [HttpPost(nameof(ShipperInsert))]
-        public IActionResult ShipperInsert(Shipper model)
+        public IActionResult ShipperInsert(ShipperDto model)
         {
             var result = shipperService.CreateShipper(model);
             if (result <= 0)
@@ -51,7 +52,7 @@ namespace northwind.Controllers
         }
 
         [HttpPut(nameof(UpdateShipper))]
-        public IActionResult UpdateShipper([FromQuery] Shipper shippermodel)
+        public IActionResult UpdateShipper([FromBody] ShipperDto shippermodel)
         {
             var result = shipperService.UpdateShipper(shippermodel);
             if (result >0)

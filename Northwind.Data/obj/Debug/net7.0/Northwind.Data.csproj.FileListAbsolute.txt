@@ -12,3 +12,4 @@ C:\Users\Nusret\source\Sampas\northwind\Northwind.Data\obj\Debug\net7.0\ref\Nort
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Data\bin\Debug\net7.0\Northwind.Data.runtimeconfig.json
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Data\obj\Debug\net7.0\Northwind.Data.genruntimeconfig.cache
 C:\Users\Nusret\source\Sampas\northwind\Northwind.Data\obj\Debug\net7.0\Northwind.Data.csproj.AssemblyReference.cache
+C:\Users\Nusret\source\Sampas\northwind\Northwind.Data\obj\Debug\net7.0\Northwind.Data.sourcelink.json
